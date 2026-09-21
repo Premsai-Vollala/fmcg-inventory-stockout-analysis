@@ -5,7 +5,7 @@ fmcg_inventory_sample_data.csv
 ## 📌 Executive Summary
 In rapid fulfillment quick-commerce (10–15 minute grocery delivery), dark stores face extreme order spikes and inventory volatility. Ineffective replenishment logic leads directly to missed revenue from stockouts alongside capital erosion from high-spoilage perishables.
 
-This project delivers an automated inventory health monitoring model and decision framework using **Advanced Excel** and **Power Query**. It evaluates 1,200+ SKU distribution events across dark stores to detect stockout vulnerabilities, simulate safety stock thresholds, and prioritize reorder queues by revenue impact.
+This project delivers an automated inventory health monitoring model and decision framework using **Advanced Excel** and **Power Query**. It evaluates 20,000 SKU distribution events across dark stores to detect stockout vulnerabilities, simulate safety stock thresholds, and prioritize reorder queues by revenue impact.
 
 ---
 
