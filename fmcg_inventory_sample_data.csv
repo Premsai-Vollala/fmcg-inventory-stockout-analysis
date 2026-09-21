@@ -67,10 +67,9 @@ Estimates the gross revenue impact during fulfillment downtime:
 
 ## 📂 Repository Contents
 ```text
-├── fmcg_inventory_sample_data.csv    # 1,200-row dark store inventory & transaction log
-├── fmcg_inventory_model.xlsx         # Advanced Excel workbook with Power Query & data model
-├── stockout_dashboard_preview.png    # High-resolution dashboard screenshot
-└── README.md                         # Project documentation and analytical methods
+├── quick_commerce_fmcg_dark_store_20000.csv  # 20,000-row dark store inventory & transaction log
+├── fmcg_inventory_model.xlsx                 # Advanced Excel workbook with Power Query & data model
+└── README.md                                 # Project documentation and analytical methods
 
 
 
