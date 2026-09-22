@@ -1,4 +1,5 @@
 # Quick-Commerce FMCG Inventory & Stockout Analysis
+![FMCG Inventory & Stockout Dashboard](dashboard.png)
 
 ## 📌 Executive Summary
 In rapid fulfillment quick-commerce (10–15 minute grocery delivery), dark stores face extreme order spikes and inventory volatility. Ineffective replenishment logic leads directly to missed revenue from stockouts alongside capital erosion from high-spoilage perishables.
