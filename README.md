@@ -1,4 +1,4 @@
-# Quick-Commerce FMCG Inventory & Stockout Analysis
+#FMCG-Inventory-Stockout-Analysis
 ![FMCG Inventory & Stockout Dashboard](dashboard.png)
 
 ## 📌 Executive Summary
